@@ -1,0 +1,7 @@
+{
+  "name": "SwiftDispatch",
+  "description": "Enterprise-level logistics and delivery platform featuring real-time tracking, driver management, and seamless booking flow.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
